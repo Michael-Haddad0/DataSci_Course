@@ -1,6 +1,6 @@
 ## Technical Notes 
 
-[DS-01] Introduction to Data Science?
+[DS-01] Introduction to Data Science
 
 [DS-02Py] Introduction to Python
 
