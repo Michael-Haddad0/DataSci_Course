@@ -2,7 +2,7 @@
 
 * Introduction to Data Science	
 
-  + Technical note: [DS-01] Introduction to Data Science
+    + Technical note: [DS-01] Introduction to Data Science
 
 * Introduction to Python
 
@@ -10,9 +10,9 @@
   
 *	Working with data in Python
 
-   + Technical note: [DS-03Py] Working with data in Python
+    + Technical note: [DS-03Py] Working with data in Python
 
-   + Example: Employees leaving prematurely
+    + Example: Employees leaving prematurely
   
 *	Linear regression
 
@@ -34,6 +34,6 @@
    
 * Association rules
 
-     + Technical note: [DS-08] Association rules
+    + Technical note: [DS-08] Association rules
 
     + Example: Market basket analysis at the grocery outlet
