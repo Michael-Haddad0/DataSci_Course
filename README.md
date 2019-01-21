@@ -6,34 +6,34 @@
 
 * Introduction to Python
 
-  + Technical note: [DS-02Py] Introduction to Python
+    + Technical note: [DS-02Py] Introduction to Python
   
 *	Working with data in Python
 
-  + Technical note: [DS-03Py] Working with data in Python
+   + Technical note: [DS-03Py] Working with data in Python
 
-  + Example: Employees leaving prematurely
+   + Example: Employees leaving prematurely
   
 *	Linear regression
 
-  + Technical note: [DS-05] Linear regression
+    + Technical note: [DS-05] Linear regression
 
-  + Example: House sales in King County
+    + Example: House sales in King County
 
 * Logistic regression
 
-  + Technical note: [DS-06] Logistic regression
+    + Technical note: [DS-06] Logistic regression
 
-  + Example: The churn model
+    + Example: The churn model
 
 * Decision trees
 
-  + Technical note: [DS-07] Decision trees
+    + Technical note: [DS-07] Decision trees
   
-   + Example: The spam filter
+    + Example: The spam filter
    
 * Association rules
 
-   + Technical note: [DS-08] Association rules
+     + Technical note: [DS-08] Association rules
 
-  + Example: Market basket analysis at the grocery outlet
+    + Example: Market basket analysis at the grocery outlet
