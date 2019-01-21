@@ -1,4 +1,4 @@
-## Data sets
+## Data Sets
 
 Employees leaving prematurely: `turnover.csv`.
 
