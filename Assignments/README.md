@@ -1,3 +1,3 @@
 ## Asignments
 
-* Assignment 1: Variations on the regression model for the King County housing prices.
+* Assignment 1: Variations on the model for predicting King County housing prices.
