@@ -48,6 +48,7 @@ minimize_scalar(f, bounds=(0, 1), method='bounded')
 
 # Graphical solution #
 import numpy as np
+import matplotlib.pyplot as plt
 x = np.linspace(0.1, 0.9, 90)
 benefit = np.vectorize(benefit)
 y = benefit(x)
