@@ -19,7 +19,6 @@ logis.fit(X, y)
 
 # Predictive scores #
 score = logis.predict_proba(X)[:, 1]
-churn['score'] = score
 
 # Confusion matrices #
 conf1 = pd.crosstab(score > 0.5, churn['churn'] == 1)
@@ -28,9 +27,9 @@ conf2 = pd.crosstab(score > 0.2, churn['churn'] == 1)
 conf2
 
 # Cost-benefit analysis #
-benefit1 = 80*conf1.iloc[0,0] - 20*conf1.iloc[0,1]
+benefit1 = 80*conf1.iloc[1,1] - 20*conf1.iloc[1,0]
 benefit1
-benefit2 = 80*conf2.iloc[0,0] - 20*conf2.iloc[0,1]
+benefit2 = 80*conf2.iloc[1,1] - 20*conf2.iloc[1,0]
 benefit2
 
 # Benefit function #
