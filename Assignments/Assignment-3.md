@@ -6,11 +6,11 @@ This assignment is based on the example **The spam filter**. The objective is to
 
 #### Tasks
 
-1. Develop a spam filter based on a **logistic regression equation** and evaluate it using a confusion matrix.
+1. Develop a spam filter based on a **logistic regression equation** and evaluate it using a **confusion matrix**.
 
-2. Drop the three `cap_` variables and **binarize** all the `word_` variables, transforming them into dummies for the occurrence of the corresponding word. Develop two spam filters, one based on a logistic regression equation and the other based on a decision tree, using the binarized data set.
+2. Drop the three `cap_` variables and **binarize** all the `word_` variables, transforming them into dummies for the occurrence of the corresponding word. Develop two spam filters, one based on a logistic regression equation and the other based on a **decision tree**, using the binarized data set.
 
-3. Compare the three models obtained with the models discussed in class.
+3. Compare the three models obtained here with the models discussed in class.
 
 #### Submission
 
