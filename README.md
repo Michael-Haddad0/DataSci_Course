@@ -1,4 +1,4 @@
-# Data Science Course
+## Data Science Course
 
 * Introduction to Data Science	
 
