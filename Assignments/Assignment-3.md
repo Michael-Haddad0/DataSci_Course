@@ -18,4 +18,4 @@ Submit either a `.py` document with your code and short comments, or a full repo
 
 #### Deadline
 
-Febrruary 20 (Wednesday), 24:00.
+February 20 (Wednesday), 24:00.
