@@ -22,4 +22,4 @@ Submit either a `.py` document with your code and short comments, or a full repo
 
 #### Deadline
 
-February 27 (Tuesday), 24:00.
+February 27 (Wednesday), 24:00.
