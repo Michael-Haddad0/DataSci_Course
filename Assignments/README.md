@@ -6,4 +6,4 @@
 
 * Assignment 3: Variations on the spam filter.
 
-* Assignment 4: Validation of classification models
+* Assignment 4: Validation of classification models.
