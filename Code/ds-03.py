@@ -19,7 +19,7 @@ plt.plot(x, x, label='linear')
 plt.plot(x, x**2, label='quadratic')
 plt.plot(x, x**3, label='cubic')
 plt.legend()
-# plt.savefig('C:/Users/mcanela/Dropbox (Personal)/DataSci material/TeX files/Figures/fig 03.1.pdf')
+# plt.savefig('~/Dropbox/DataSci-2019/TeX files/Figures/fig 03.1.pdf')
 plt.show()
 
 # Pandas series and data frames #

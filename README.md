@@ -1,4 +1,4 @@
-# Data Science Course
+## Data Science Course
 
 * Introduction to Data Science	
 
@@ -37,3 +37,9 @@
     + Technical note: [DS-08] Association rules
 
     + Example: Market basket analysis at the grocery outlet
+    
+* String data analysis
+    
+    + Technical note: [DS-04Py] Dates and strings in Python
+    
+    + Example: Skills requested in Google job posts
